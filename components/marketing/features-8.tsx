@@ -1,6 +1,5 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Shield, Users } from "lucide-react";
-import Image from "next/image";
 
 export default function FeaturesSection() {
   return (
