@@ -8,13 +8,8 @@ export default function Testimonials() {
       <div className="mx-auto max-w-6xl space-y-8 px-6 md:space-y-16">
         <div className="relative z-10 mx-auto max-w-xl space-y-6 text-center md:space-y-12">
           <h2 className="text-4xl font-medium lg:text-5xl">
-            Build by makers, loved by thousand developers
+            Loved by thousand creators and brands
           </h2>
-          <p>
-            Gemini is evolving to be more than just the models. It supports an
-            entire to the APIs and platforms helping developers and businesses
-            innovate.
-          </p>
         </div>
 
         <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-4 lg:grid-rows-2">
